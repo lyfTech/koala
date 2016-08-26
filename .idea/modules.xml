@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/koala.iml" filepath="$PROJECT_DIR$/koala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/koala-base.iml" filepath="$PROJECT_DIR$/../koala-base/koala-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/entities/koala-base-entities.iml" filepath="$PROJECT_DIR$/../koala-base/entities/koala-base-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/entities/cms/koala-base-entities-cms.iml" filepath="$PROJECT_DIR$/../koala-base/entities/cms/koala-base-entities-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/entities/common/koala-base-entities-common.iml" filepath="$PROJECT_DIR$/../koala-base/entities/common/koala-base-entities-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/entities/member/koala-base-entities-member.iml" filepath="$PROJECT_DIR$/../koala-base/entities/member/koala-base-entities-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/logics/koala-base-logics.iml" filepath="$PROJECT_DIR$/../koala-base/logics/koala-base-logics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/logics/common/koala-base-logics-common.iml" filepath="$PROJECT_DIR$/../koala-base/logics/common/koala-base-logics-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/logics/member/koala-base-logics-member.iml" filepath="$PROJECT_DIR$/../koala-base/logics/member/koala-base-logics-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/repositories/koala-base-repositories.iml" filepath="$PROJECT_DIR$/../koala-base/repositories/koala-base-repositories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/repositories/common/koala-base-repositories-common.iml" filepath="$PROJECT_DIR$/../koala-base/repositories/common/koala-base-repositories-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-base/repositories/member/koala-base-repositories-member.iml" filepath="$PROJECT_DIR$/../koala-base/repositories/member/koala-base-repositories-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-cms/koala-cms.iml" filepath="$PROJECT_DIR$/../koala-cms/koala-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-cms/api/koala-cms-api.iml" filepath="$PROJECT_DIR$/../koala-cms/api/koala-cms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-cms/ws/koala-cms-ws.iml" filepath="$PROJECT_DIR$/../koala-cms/ws/koala-cms-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-member/koala-member.iml" filepath="$PROJECT_DIR$/../koala-member/koala-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-member/api/koala-member-api.iml" filepath="$PROJECT_DIR$/../koala-member/api/koala-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-member/ws/koala-member-ws.iml" filepath="$PROJECT_DIR$/../koala-member/ws/koala-member-ws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-portal/koala-portal.iml" filepath="$PROJECT_DIR$/../koala-portal/koala-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-utils/koala-utils.iml" filepath="$PROJECT_DIR$/../koala-utils/koala-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-utils/common/koala-utils-common.iml" filepath="$PROJECT_DIR$/../koala-utils/common/koala-utils-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../koala-utils/config/koala-utils-config.iml" filepath="$PROJECT_DIR$/../koala-utils/config/koala-utils-config.iml" />
+    </modules>
+  </component>
+</project>
